@@ -25,13 +25,13 @@
 
 ## 🤝🏻 &nbsp;**Connect with Me**
 <p align="center">
-    <a href="" target="blank">
+    <a href="linkedin.com/in/alexander-sanchez-71ab7b1b3" target="blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="mailto:alexandersczash@gmail.com" target="blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="" target="blank">
+    <a href="mailto:pcua2014@hotmail.com" target="blank">
         <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
     </a>
 </p>
