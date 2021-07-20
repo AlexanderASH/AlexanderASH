@@ -25,7 +25,7 @@
 
 ## 🤝🏻 &nbsp;**Connect with Me**
 <p align="center">
-    <a href="linkedin.com/in/alexander-sanchez-71ab7b1b3" target="blank">
+    <a href="https://www.linkedin.com/in/alexander-sanchez-71ab7b1b3/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="mailto:alexandersczash@gmail.com" target="blank">
